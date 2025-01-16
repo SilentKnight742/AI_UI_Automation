@@ -40,6 +40,7 @@ packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
 pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp310-cp310-win_amd64.whl#sha256=6fc0a0523ea4ec3f23a2b790c738c857942b4c579479f8012ac8148d675b8975
 pillow==11.1.0
 propcache @ file:///C:/b/abs_d6o8xbonwb/croot/propcache_1732304003668/work
+protobuf==5.29.3
 pyarrow @ file:///C:/b/abs_cddzecbo0a/croot/pyarrow_1733937783605/work/python
 pydantic==2.10.5
 pydantic_core==2.27.2
@@ -52,6 +53,7 @@ requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
 safetensors @ file:///C:/b/abs_2ecmzbbm08/croot/safetensors_1732234465439/work
 scikit-learn @ file:///C:/b/abs_69a_gdu9bf/croot/scikit-learn_1734547445211/work/dist/scikit_learn-1.5.2-cp310-cp310-win_amd64.whl#sha256=1c37168c8fd122e8718b77b654e882c643f30dbfa4526b056c4a432b2142d545
 scipy @ file:///C:/Users/dev-admin/cr_scipy-release/scipy_1731623378890/work/dist/scipy-1.14.1-cp310-cp310-win_amd64.whl#sha256=b0806979689db0e35099d60654c8efbf9c4feb9f01011de170330d8a2d138e5d
+sentencepiece==0.2.0
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio==1.3.1
 sympy==1.13.1
