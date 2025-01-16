@@ -1,0 +1,70 @@
+aiohappyeyeballs @ file:///C:/b/abs_e9fm5mk6ak/croot/aiohappyeyeballs_1734469429350/work
+aiohttp @ file:///C:/b/abs_d4_gdjffav/croot/aiohttp_1734687146788/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+annotated-types==0.7.0
+anyio==4.8.0
+async-timeout @ file:///C:/b/abs_d8yc2t_bxy/croot/async-timeout_1732663677668/work
+attrs @ file:///C:/b/abs_89hmquz5ga/croot/attrs_1734533130810/work
+Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+certifi @ file:///C:/b/abs_59o0xj7aav/croot/certifi_1734473304008/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+datasets @ file:///C:/b/abs_62zngb45t8/croot/datasets_1716911669805/work
+dill @ file:///C:/b/abs_f79eg27d2q/croot/dill_1715094735295/work
+distro==1.9.0
+exceptiongroup==1.2.2
+filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
+frozenlist @ file:///C:/b/abs_06ctmb1zeo/croot/frozenlist_1730903113463/work
+fsspec @ file:///C:/b/abs_d5jzmndkba/croot/fsspec_1714461594761/work
+h11==0.14.0
+httpcore==1.0.7
+httpx==0.28.1
+huggingface_hub @ file:///C:/b/abs_6f4hr2sio5/croot/huggingface_hub_1724853960198/work
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+Jinja2==3.1.5
+jiter==0.8.2
+joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
+MarkupSafe==3.0.2
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+mpmath==1.3.0
+multidict @ file:///C:/b/abs_19e3ubo2ew/croot/multidict_1730905504444/work
+multiprocess @ file:///C:/b/abs_43lxksn2oj/croot/multiprocess_1692295065414/work
+networkx==3.4.2
+numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp310-cp310-win_amd64.whl#sha256=ebb5aa2b36d8afa5ec3231c19e5a1fc75b6d85e7db483f0fb9e77dad58469977
+openai==1.59.7
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp310-cp310-win_amd64.whl#sha256=6fc0a0523ea4ec3f23a2b790c738c857942b4c579479f8012ac8148d675b8975
+pillow==11.1.0
+propcache @ file:///C:/b/abs_d6o8xbonwb/croot/propcache_1732304003668/work
+pyarrow @ file:///C:/b/abs_cddzecbo0a/croot/pyarrow_1733937783605/work/python
+pydantic==2.10.5
+pydantic_core==2.27.2
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
+PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
+regex @ file:///C:/b/abs_d785r851h6/croot/regex_1736542205858/work
+requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
+safetensors @ file:///C:/b/abs_2ecmzbbm08/croot/safetensors_1732234465439/work
+scikit-learn @ file:///C:/b/abs_69a_gdu9bf/croot/scikit-learn_1734547445211/work/dist/scikit_learn-1.5.2-cp310-cp310-win_amd64.whl#sha256=1c37168c8fd122e8718b77b654e882c643f30dbfa4526b056c4a432b2142d545
+scipy @ file:///C:/Users/dev-admin/cr_scipy-release/scipy_1731623378890/work/dist/scipy-1.14.1-cp310-cp310-win_amd64.whl#sha256=b0806979689db0e35099d60654c8efbf9c4feb9f01011de170330d8a2d138e5d
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.1
+sympy==1.13.1
+threadpoolctl @ file:///C:/b/abs_def0dwqlft/croot/threadpoolctl_1719407816649/work
+tokenizers @ file:///C:/b/abs_385x_d6rc8/croot/tokenizers_1732129631761/work
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tqdm @ file:///C:/b/abs_77wju137gk/croot/tqdm_1724853945787/work
+transformers @ file:///C:/b/abs_2bgndud1b2/croot/transformers_1729767177936/work
+typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3 @ file:///C:/b/abs_9a_f8h_bn2/croot/urllib3_1727769836930/work
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+xxhash @ file:///C:/b/abs_e59ry5bslh/croot/python-xxhash_1667919514787/work
+yarl @ file:///C:/b/abs_281qby2vim/croot/yarl_1732546854547/work
